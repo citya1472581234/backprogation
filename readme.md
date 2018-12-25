@@ -1,17 +1,8 @@
 # backpropagation
 ![](https://github.com/citya1472581234/backprogation/blob/master/DNN/picture/1.PNG?raw=true)
 
-2. BN
-* 對於第一層來說，將數據歸一化，可能會有較好的結果。
-* 對於其他層來說，梯度較不容易消失，例如:梯度都在負的部分，在relu後可能就會消失。
-* 有效減緩over-fitting
-* 減少不好的初始化影響
-* 可以用大一點的 learning rate
-* 用在 activation function 前面
-* spatial BN 是根據channel 做 BN
-![](https://i.imgur.com/aeOfyyB.png)
-![](https://i.imgur.com/eoXtFo3.png)
 
+![](https://github.com/citya1472581234/backprogation/blob/master/DNN/picture/2.PNG?raw=true)
 
 3.Dropout
 * 訓練時以概率 P，保留神經元，測試時所有神經元都參與。
