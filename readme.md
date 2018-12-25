@@ -1,10 +1,5 @@
 # backpropagation
-
-1. DNN
-* 因為 relu 負數是沒有貢獻的，所以在 backward中，令負的梯度為 0。
-* wx+b ， 所以反向傳播 dw = margin(殘差值) * x  ，db = margin(殘差值)總和。
-* To make our softmax function numerically stable, we simply normalize the values in the vector, by multiplying the numerator and denominator with a constant C，We can choose an arbitrary value for log( C ) term, but generally log( C )=−max(a) is chosen
-![](https://i.imgur.com/x5WE5tt.png)
+![](https://github.com/citya1472581234/backprogation/blob/master/DNN/picture/1.PNG?raw=true)
 
 2. BN
 * 對於第一層來說，將數據歸一化，可能會有較好的結果。
