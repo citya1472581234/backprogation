@@ -18,3 +18,6 @@
 * adam RMS momentum 比較 https://blog.csdn.net/willduan1/article/details/78070086
 * Nesterov accelerated gradient (NAG) https://blog.csdn.net/tsyccnh/article/details/76673073
 ![](https://i.imgur.com/7avHxqq.png)
+
+6.RNN
+![]()
