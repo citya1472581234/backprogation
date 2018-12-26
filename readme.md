@@ -19,5 +19,6 @@
 * Nesterov accelerated gradient (NAG) https://blog.csdn.net/tsyccnh/article/details/76673073
 ![](https://i.imgur.com/7avHxqq.png)
 
-6.RNN
-![]()
+6.
+![](https://github.com/citya1472581234/backprogation/blob/master/DNN/picture/3.PNG?raw=true)
+![](https://github.com/citya1472581234/backprogation/blob/master/DNN/picture/4.PNG?raw=true)
